@@ -4,6 +4,7 @@ import com.kujudy.springbootmall.constant.ProductCategory;
 
 import java.util.Date;
 
+
 public class Product {
 
     private Integer productId;
