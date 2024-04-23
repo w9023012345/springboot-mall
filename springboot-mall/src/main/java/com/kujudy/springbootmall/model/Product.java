@@ -10,7 +10,7 @@ public class Product {
     private Integer productId;
     private String productName;
     private ProductCategory category;
-    private String imgeUrl;
+    private String imageUrl;
     private Integer price;
     private Integer stock;
     private String description;
@@ -34,12 +34,12 @@ public class Product {
         this.productName = productName;
     }
 
-    public String getImgeUrl() {
-        return imgeUrl;
+    public String getImageUrl() {
+        return imageUrl;
     }
 
-    public void setImgeUrl(String imgeUrl) {
-        this.imgeUrl = imgeUrl;
+    public void setImageUrl(String imgeUrl) {
+        this.imageUrl = imgeUrl;
     }
 
 
