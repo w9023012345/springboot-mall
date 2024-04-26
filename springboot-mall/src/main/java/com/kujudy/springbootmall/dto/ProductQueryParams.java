@@ -5,6 +5,24 @@ import com.kujudy.springbootmall.constant.enumvs.ProductCategory;
 public class ProductQueryParams {
     private ProductCategory category;
     private String search;
+    private String orderBy;
+    private String order;
+
+    public String getOrderBy() {
+        return orderBy;
+    }
+
+    public void setOrderBy(String orderBy) {
+        this.orderBy = orderBy;
+    }
+
+    public String getOrder() {
+        return order;
+    }
+
+    public void setOrder(String order) {
+        this.order = order;
+    }
 
     public ProductCategory getCategory() {
         return category;
