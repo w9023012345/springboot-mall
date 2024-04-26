@@ -1,6 +1,6 @@
 package com.kujudy.springbootmall.dto;
 
-import com.kujudy.springbootmall.constant.ProductCategory;
+import com.kujudy.springbootmall.constant.enumvs.ProductCategory;
 import javax.validation.constraints.NotNull;
 
 public class ProductRequest {

@@ -1,6 +1,6 @@
 package com.kujudy.springbootmall.model;
 
-import com.kujudy.springbootmall.constant.ProductCategory;
+import com.kujudy.springbootmall.constant.enumvs.ProductCategory;
 
 import java.util.Date;
 

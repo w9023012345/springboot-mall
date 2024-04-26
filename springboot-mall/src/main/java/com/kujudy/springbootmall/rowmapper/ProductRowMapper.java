@@ -1,6 +1,6 @@
 package com.kujudy.springbootmall.rowmapper;
 
-import com.kujudy.springbootmall.constant.ProductCategory;
+import com.kujudy.springbootmall.constant.enumvs.ProductCategory;
 import com.kujudy.springbootmall.model.Product;
 import org.springframework.jdbc.core.RowMapper;
 

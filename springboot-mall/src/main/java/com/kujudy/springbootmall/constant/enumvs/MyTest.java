@@ -1,4 +1,4 @@
-package com.kujudy.springbootmall.constant;
+package com.kujudy.springbootmall.constant.enumvs;
 
 public class MyTest {
     public static void main(String[] args) {
